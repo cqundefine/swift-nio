@@ -1,0 +1,3 @@
+module CNIOWASI {
+  header "CNIOWASI.h"
+}

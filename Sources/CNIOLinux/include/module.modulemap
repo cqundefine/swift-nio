@@ -1,0 +1,4 @@
+module CNIOLinux {
+  header "CNIOLinux.h"
+  header "liburing_nio.h"
+}

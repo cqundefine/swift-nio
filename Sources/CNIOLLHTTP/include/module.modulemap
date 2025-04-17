@@ -1,0 +1,4 @@
+module CNIOLLHTTP {
+  header "c_nio_llhttp.h"
+  header "CNIOLLHTTP.h"
+}
